@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sorting/seminar1/seminar1.vcxproj" Id="34674a2b-8442-4381-89e6-348ad06b3c62" />
+  <Project Path="sorting/seminar2/seminar2.vcxproj" Id="9236afc9-eba1-47a0-bb79-27c73fa99d56" />
+  <Project Path="sorting/seminar3/seminar3.vcxproj" Id="4de947dc-5361-4148-be98-23e1fbeaf0ea" />
+  <Project Path="sorting/seminar4/seminar4.vcxproj" Id="acb9f1a0-46bb-422f-99a4-a3a8f8a3010c" />
+  <Project Path="Testov.vcxproj" Id="f3072544-7296-42c5-8ab7-fb8210d1ab5c" />
+</Solution>
