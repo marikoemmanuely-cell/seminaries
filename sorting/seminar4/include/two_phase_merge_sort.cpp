@@ -39,10 +39,6 @@ void twoPhaseMergeSort(std::vector<T>& arr,
 	}
 }
 
-template void twoPhaseMergeSort<int>(
-	std::vector<int>&,
-	const std::string&);
-
 // two_phase_merge_sort.cpp (tout en bas)
 template void twoPhaseMergeSort<int>(std::vector<int>&, const std::string&);
 template void twoPhaseMergeSort<double>(std::vector<double>&, const std::string&);
